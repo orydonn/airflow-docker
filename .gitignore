@@ -1,0 +1,10 @@
+# Ignore editor directories and system files
+.idea/
+.DS_Store
+*.pyc
+__pycache__/
+
+# Airflow runtime outputs
+logs/
+mdfiles/*.md
+
