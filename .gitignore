@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# macOS files
+.DS_Store
+
+# Airflow log files
+logs/
+
+# Environment variables
+.env
